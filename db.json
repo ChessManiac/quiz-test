@@ -21,7 +21,7 @@
           "https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png",
           "https://sumatosoft.com/wp-content/uploads/2023/03/ruby-lang-ar21-1024x512.png"
         ],
-        "correctAnswer": "0"  // Index of correct image
+        "correctAnswer": "0"  
       },
       {
         "question": "John implemented a search alogrithm that runs in O(n) and James implemented a different search algorithm that runs in O(n^2). Which runs the fastest?",
