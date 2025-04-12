@@ -12,6 +12,17 @@
         "choices": ["System", "import", "select"],
         "correctAnswer": "import"
       },
+      "questions": [
+      {
+        "question": "Which of these is the Java logo?",
+        "type": "image-selection",
+        "images": [
+          "https://logos-world.net/wp-content/uploads/2022/07/Java-Logo-700x394.png",
+          "https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png",
+          "https://sumatosoft.com/wp-content/uploads/2023/03/ruby-lang-ar21-1024x512.png"
+        ],
+        "correctAnswer": "0"  // Index of correct image
+      },
       {
         "question": "John implemented a search alogrithm that runs in O(n) and James implemented a different search algorithm that runs in O(n^2). Which runs the fastest?",
         "choices": ["O(n)", "O(n^2)"],
