@@ -1,30 +1,32 @@
-[
-  {
-    "id": 1,
-    "type": "multiple-choice",
-    "question": "Which language is used for web development?",
-    "choices": ["Python", "HTML", "Java", "C++"],
-    "correctAnswer": "HTML"
-  },
-  {
-    "id": 2,
-    "type": "narrative",
-    "question": "What symbol is used for comments in Python?",
-    "correctAnswer": "#"
-  },
-  {
-    "id": 3,
-    "type": "image-selection",
-    "question": "Select the image that shows the Python logo.",
-    "images": [
+{
+  "quiz1": {
+    "title": "Quiz 1",
+    "questions": [
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg",
-        "isCorrect": true
+        "question": "What is 2 + 2?",
+        "choices": ["2", "4", "6"],
+        "correctAnswer": "4"
       },
       {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg",
-        "isCorrect": false
+        "question": "What is 3 + 3?",
+        "choices": ["3", "6", "9"],
+        "correctAnswer": "6"
+      }
+    ]
+  },
+  "quiz2": {
+    "title": "Quiz 2",
+    "questions": [
+      {
+        "question": "What is 5 + 5?",
+        "choices": ["10", "11", "12"],
+        "correctAnswer": "10"
+      },
+      {
+        "question": "What is 6 + 6?",
+        "choices": ["10", "12", "14"],
+        "correctAnswer": "12"
       }
     ]
   }
-]
+}
