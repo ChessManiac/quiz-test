@@ -62,8 +62,8 @@
         "type": "image-selection",
         "images": [
           "https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png",
-          "https://logos-world.net/wp-content/uploads/2022/07/Java-Logo-700x394.png",
-          "https://sumatosoft.com/wp-content/uploads/2023/03/ruby-lang-ar21-1024x512.png"
+          "https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png?20180210215736",
+          "https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"
         ],
         "correctAnswer": "0"  
       }
