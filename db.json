@@ -1,19 +1,19 @@
 {
   "quiz1": {
-    "title": "Quiz 1",
+    "title": "Java Quiz",
     "questions": [
       {
-        "question": "In java what is 2 + 'Hello'",
+        "question": "In Java, what is 2 + 'Hello'?",
         "choices": ["2 Hello", "1Hello", "2Hello"],
         "correctAnswer": "2Hello"
       },
       {
-        "question": "What keyword in java allows the user to use different object from classes?",
+        "question": "What keyword in Java allows importing classes?",
         "choices": ["System", "import", "select"],
         "correctAnswer": "import"
       },
       {
-        "question": "Which of these is the Java logo?",
+        "question": "Identify the Java logo:",
         "type": "image-selection",
         "images": [
           "https://logos-world.net/wp-content/uploads/2022/07/Java-Logo-700x394.png",
@@ -23,34 +23,49 @@
         "correctAnswer": "0"  
       },
       {
-        "question": "How do you print messages in Java",
-        "choices": ["System.out.print('...')", "print('.....')"],
+        "question": "How do you print messages in Java?",
+        "choices": ["System.out.print('...')", "print('...')"],
         "correctAnswer": "System.out.print('...')"
       },
       {
-        "question": "John implemented a search alogrithm that runs in O(n) and James implemented a different search algorithm that runs in O(n^2). Which runs the fastest?",
-        "choices": ["O(n)", "O(n^2)"],
+        "question": "Which algorithm runs faster: O(n) or O(n²)?",
+        "choices": ["O(n)", "O(n²)"],
         "correctAnswer": "O(n)"
       }
     ]
   },
   "quiz2": {
-    "title": "Quiz 2",
+    "title": "Python Quiz",
     "questions": [
       {
-        "question": "What is 5 + 5?",
-        "choices": ["10", "11", "12"],
-        "correctAnswer": "10"
+        "question": "Which keyword defines a Python function?",
+        "choices": ["def", "function", "define", "func"],
+        "correctAnswer": "def"
       },
       {
-        "question": "What is 6 + 6?",
-        "choices": ["10", "12", "14"],
-        "correctAnswer": "12"
+        "question": "What does print(3 * 'hi') output?",
+        "choices": ["hihihi", "3hi", "hi hi hi", "Error"],
+        "correctAnswer": "hihihi"
       },
       {
-        "question": "There are 7 birds in a tree. 2 more birds join them. Later, 1 bird flies away. How many birds remain?",
-        "choices": ["6 birds", "8 birds", "10 birds"],
-        "correctAnswer": "8 birds"
+        "question": "Which method adds to the end of a list?",
+        "choices": [".append()", ".add()", ".insert()", ".push()"],
+        "correctAnswer": ".append()"
+      },
+      {
+        "question": "How do you write a Python comment?",
+        "choices": ["// comment", "# comment", "/* comment */", "-- comment"],
+        "correctAnswer": "# comment"
+      },
+      {
+        "question": "Identify the Python logo:",
+        "type": "image-selection",
+        "images": [
+          "https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png",
+          "https://logos-world.net/wp-content/uploads/2022/07/Java-Logo-700x394.png",
+          "https://sumatosoft.com/wp-content/uploads/2023/03/ruby-lang-ar21-1024x512.png"
+        ],
+        "correctAnswer": "0"  
       }
     ]
   }
