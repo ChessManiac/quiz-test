@@ -3,9 +3,9 @@
     "title": "Quiz 1",
     "questions": [
       {
-        "question": "What is 2 + 2?",
-        "choices": ["2", "4", "6"],
-        "correctAnswer": "4"
+        "question": "In java what is 2 + 'Hello'",
+        "choices": ["2 Hello", "1Hello", "2Hello"],
+        "correctAnswer": "2Hello"
       },
       {
         "question": "What is 3 + 3?",
