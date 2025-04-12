@@ -13,9 +13,9 @@
         "correctAnswer": "import"
       },
       {
-        "question": "Sarah has 5 apples. She buys 3 more apples at the store. How many apples does she have now?",
-        "choices": ["7 apples", "8 apples", "9 apples"],
-        "correctAnswer": "8 apples"
+        "question": "John implemented a search alogrithm that runs in O(n) and James implemented a different search algorithm that runs in O(n^2). Which runs the fastest?",
+        "choices": ["O(n)", "O(n^2)"],
+        "correctAnswer": "O(n)"
       }
     ]
   },
