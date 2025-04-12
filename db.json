@@ -8,9 +8,9 @@
         "correctAnswer": "2Hello"
       },
       {
-        "question": "What is 3 + 3?",
-        "choices": ["3", "6", "9"],
-        "correctAnswer": "6"
+        "question": "What keyword in java allows the user to use different object from classes?",
+        "choices": ["System", "import", "select"],
+        "correctAnswer": "import"
       },
       {
         "question": "Sarah has 5 apples. She buys 3 more apples at the store. How many apples does she have now?",
