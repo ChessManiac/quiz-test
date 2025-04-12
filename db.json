@@ -11,6 +11,11 @@
         "question": "What is 3 + 3?",
         "choices": ["3", "6", "9"],
         "correctAnswer": "6"
+      },
+      {
+        "question": "Sarah has 5 apples. She buys 3 more apples at the store. How many apples does she have now?",
+        "choices": ["7 apples", "8 apples", "9 apples"],
+        "correctAnswer": "8 apples"
       }
     ]
   },
@@ -26,6 +31,11 @@
         "question": "What is 6 + 6?",
         "choices": ["10", "12", "14"],
         "correctAnswer": "12"
+      },
+      {
+        "question": "There are 7 birds in a tree. 2 more birds join them. Later, 1 bird flies away. How many birds remain?",
+        "choices": ["6 birds", "8 birds", "10 birds"],
+        "correctAnswer": "8 birds"
       }
     ]
   }
