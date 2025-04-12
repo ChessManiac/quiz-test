@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "type": "multiple-choice",
+    "question": "Which language is used for web development?",
+    "choices": ["Python", "HTML", "Java", "C++"],
+    "correctAnswer": "HTML"
+  },
+  {
+    "id": 2,
+    "type": "narrative",
+    "question": "What symbol is used for comments in Python?",
+    "correctAnswer": "#"
+  },
+  {
+    "id": 3,
+    "type": "image-selection",
+    "question": "Select the image that shows the Python logo.",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg",
+        "isCorrect": true
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg",
+        "isCorrect": false
+      }
+    ]
+  }
+]
