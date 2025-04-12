@@ -23,6 +23,11 @@
         "correctAnswer": "0"  
       },
       {
+        "question": "How do you print messages in Java",
+        "choices": ["System.out.print('...')", "print('.....')"],
+        "correctAnswer": "System.out.print('...')"
+      },
+      {
         "question": "John implemented a search alogrithm that runs in O(n) and James implemented a different search algorithm that runs in O(n^2). Which runs the fastest?",
         "choices": ["O(n)", "O(n^2)"],
         "correctAnswer": "O(n)"
