@@ -12,7 +12,6 @@
         "choices": ["System", "import", "select"],
         "correctAnswer": "import"
       },
-      "questions": [
       {
         "question": "Which of these is the Java logo?",
         "type": "image-selection",
